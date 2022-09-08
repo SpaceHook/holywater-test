@@ -1,0 +1,77 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  color: #fff;
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  &__event-title {
+    &-name {
+      margin-bottom: 5px;
+    }
+  }
+
+  &__description {
+    &-field {
+      resize: none;
+      height: 100px;
+    }
+  }
+
+  &__date {
+    display: grid;
+    grid-template-columns: max-content max-content;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+
+  &__input {
+    width: 100%;
+    font-size: 16px;
+    background-color: transparent;
+    outline: none;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid #cccccc;
+    color: #fff;
+
+    &:focus {
+      border-color: #8a8a8a;
+    }
+  }
+
+  &__submit {
+    cursor: pointer;
+    align-self: center;
+    border: 1px solid #fff;
+    font-weight: bold;
+    height: 40px;
+    width: 100px;
+    background-color: transparent;
+    border-radius: 5px;
+    color: #fff;
+  }
+
+  &__delete {
+    cursor: pointer;
+    width: 30px;
+    height: 100%;
+    background-image: url('../img/trash-2-64.ico');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  &__footer {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+  }
+}
