@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.33f5565d.css",
-    "main.js": "/static/js/main.9ecd986b.js",
-    "static/media/right.ico": "/static/media/right.66152ceb32d4c29d78a0.ico",
-    "static/media/trash-2-64.ico": "/static/media/trash-2-64.ae8d80cd855a3d8e1c07.ico",
-    "static/media/green-add-button-12023.svg": "/static/media/green-add-button-12023.049001cdfa732ae87b46.svg",
-    "index.html": "/index.html",
-    "main.33f5565d.css.map": "/static/css/main.33f5565d.css.map",
-    "main.9ecd986b.js.map": "/static/js/main.9ecd986b.js.map"
+    "main.css": "/holywater-test/static/css/main.61f41c5c.css",
+    "main.js": "/holywater-test/static/js/main.9ecd986b.js",
+    "static/media/right.ico": "/holywater-test/static/media/right.66152ceb32d4c29d78a0.ico",
+    "static/media/trash-2-64.ico": "/holywater-test/static/media/trash-2-64.ae8d80cd855a3d8e1c07.ico",
+    "static/media/green-add-button-12023.svg": "/holywater-test/static/media/green-add-button-12023.049001cdfa732ae87b46.svg",
+    "index.html": "/holywater-test/index.html",
+    "main.61f41c5c.css.map": "/holywater-test/static/css/main.61f41c5c.css.map",
+    "main.9ecd986b.js.map": "/holywater-test/static/js/main.9ecd986b.js.map"
   },
   "entrypoints": [
-    "static/css/main.33f5565d.css",
+    "static/css/main.61f41c5c.css",
     "static/js/main.9ecd986b.js"
   ]
 }
